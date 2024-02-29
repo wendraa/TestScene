@@ -8,7 +8,7 @@ public class GameData
 
     public int CurrentScore = 0;
     public int HighScore = 0;
-
+//commit test 
     public void AddScore(int Score)
     {
         CurrentScore += Score;
